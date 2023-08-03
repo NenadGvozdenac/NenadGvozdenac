@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm NenadG</h1>
 <h3 align="center">A passionate developer from Serbia</h3>
 
+- Currently third year of Faculty of Technical Sciences, Novi Sad, Serbia: Computing & Control
+  
 - 🌱 I’m currently learning **Springboot, React, Angular**
 
 - 💬 Ask me about **java, c++, sql, html&css, js**
