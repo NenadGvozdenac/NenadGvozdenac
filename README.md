@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm NenadG</h1>
-<h3 align="center">A passionate developer from Serbia</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there+%F0%9F%91%8B;I'm+NenadG)](https://git.io/typing-svg)
 
 - Currently third year of Faculty of Technical Sciences, Novi Sad, Serbia: Computing & Control
   
