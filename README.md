@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Springboot, React, Angular**
 
-- 💬 Ask me about **java, c++, sql**
+- 💬 Ask me about **java, c++, sql, html&css, js**
 
 - 📫 How to reach me **nenadgvozdenacsrb@gmail.com**
 
