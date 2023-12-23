@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning **Springboot, React, Angular**
 
-- 💬 Ask me about **electronics, computer-building and coding**
+- 💬 Ask me about **electronics, computer-building and coding (svi osim mihe!)**
 
 - 📫 How to reach me **nenadgvozdenacsrb@gmail.com**
 
