@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+there+%F0%9F%91%8B;I'm+NenadG;I+love+coding+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
-- Currently third year of Faculty of Technical Sciences, Novi Sad, Serbia: Computing & Control
+- Currently fourth year of Faculty of Technical Sciences, Novi Sad, Serbia: Computing & Control
   
 - 🌱 I’m currently learning **Springboot, React, Angular**
 
