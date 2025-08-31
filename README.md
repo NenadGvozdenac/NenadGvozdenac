@@ -20,6 +20,12 @@ I'm a **fourth-year student** at the **Faculty of Technical Sciences** in Novi S
 
 ## 🚀 Featured Projects
 
+### ⚡ [ElektroHelper](https://github.com/NenadGvozdenac/ElektroHelper)
+Comprehensive microservices platform for electricity management, community forums, and payment processing
+- **Tech Stack:** Go, .NET 8, Vue.js 3, TypeScript, PostgreSQL, Neo4j, MongoDB, Elasticsearch
+- **Architecture:** Microservices with Traefik API Gateway, Docker containerization
+- **Features:** Meter readings tracking, social forums with voting system, payment processing, real-time search
+
 ### 🤖 [GW2 Discord Bot](https://github.com/NenadGvozdenac/GW2_DiscordBot)
 Advanced Discord bot integrating Guild Wars 2 API for enhanced server experience
 - **Tech Stack:** Java, Discord API, RESTful services
@@ -47,8 +53,6 @@ Implementation of a neural network from scratch using C programming language
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🌐 Frameworks & Libraries
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -66,7 +70,6 @@ Implementation of a neural network from scratch using C programming language
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 </div>
 
