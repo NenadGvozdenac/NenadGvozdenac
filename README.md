@@ -1,32 +1,113 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+there+%F0%9F%91%8B;I'm+NenadG;I+love+coding+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
-
-- Currently fourth year of Faculty of Technical Sciences, Novi Sad, Serbia: Computing & Control
+<div align="center">
   
-- 🌱 I’m currently learning **Springboot, React, Angular**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hello+there+%F0%9F%91%8B;I'm+Nenad+Gvozdenac;Computing+%26+Control+Engineer;Full-Stack+Developer)](https://git.io/typing-svg)
 
-- 💬 Ask me about **electronics, computer-building and coding**
-
-- 📫 How to reach me **nenadgvozdenacsrb@gmail.com**
-
-<br><br>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/nenad gvozdenac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nenad gvozdenac" height="30" width="40" /></a>
-<a href="https://fb.com/nenad gvozdenac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nenad gvozdenac" height="30" width="40" /></a>
-<a href="https://instagram.com/nenadgvozdenac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nenadgvozdenac" height="30" width="40" /></a>
-  <a href="https://discord.com/channels/@me/374913214636359681"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="30" width="40" /></a>
-</p>
-
-<br><br>
-
-<h3 align="center">Used technologies and tools:</h3>
-
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<br><br>
-<div class="image-container" align="center" style="height: 100%;">
-  <img style="width: 30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nenadgvozdenac&show_icons=true&theme=cobalt&locale=en&layout=donut" alt="nenadgvozdenac" />
-  <br>
-  <img style="width: 30%" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
-<br>
+
+---
+
+## 🎓 About Me
+
+I'm a **fourth-year student** at the **Faculty of Technical Sciences** in Novi Sad, Serbia, pursuing a degree in **Computing & Control Engineering**. Passionate about technology, I enjoy building robust applications and exploring the intersection of software and hardware.
+
+- 🌍 **Location:** Novi Sad, Serbia
+- 🎯 **Focus:** Full-stack development, system design, and engineering solutions
+- 🌱 **Currently exploring:** Spring Boot, React, Angular, and modern web architectures
+- 💡 **Interests:** Electronics, computer building, software engineering, and automation
+- 📫 **Contact:** [nenadgvozdenacsrb@gmail.com](mailto:nenadgvozdenacsrb@gmail.com)
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 [GW2 Discord Bot](https://github.com/NenadGvozdenac/GW2_DiscordBot)
+Advanced Discord bot integrating Guild Wars 2 API for enhanced server experience
+- **Tech Stack:** Java, Discord API, RESTful services
+- **Features:** Game data integration, automated responses, server management
+
+### ⚙️ [MAVN to MIPS32 Compiler](https://github.com/NenadGvozdenac/MAVN-to-MIPS32-Compiler)
+Custom compiler for translating MAVN assembly language to MIPS32
+- **Tech Stack:** C++, Assembly language
+- **Academic Project:** Compiler design and assembly language processing
+
+### 🧠 [C Neural Network](https://github.com/NenadGvozdenac/C-Neural-Network)
+Implementation of a neural network from scratch using C programming language
+- **Tech Stack:** C, Mathematical algorithms
+- **Features:** Custom neural network architecture, training algorithms
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+### 💻 Programming Languages
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🌐 Frameworks & Libraries
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nenadgvozdenac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenadgvozdenac&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nenadgvozdenac&theme=tokyonight" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nenad%20gvozdenac)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nenadgvozdenac)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/374913214636359681)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nenadgvozdenacsrb@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
+</div>
+
+<div align="center">
+  
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=nenadgvozdenac&color=0e75b6&style=flat)
+
+</div>
+</content>
+</invoke>
