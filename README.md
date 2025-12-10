@@ -8,13 +8,13 @@
 
 ## 🎓 About Me
 
-I'm a **fourth-year student** at the **Faculty of Technical Sciences** in Novi Sad, Serbia, pursuing a degree in **Computing & Control Engineering**. Passionate about technology, I enjoy building robust applications and exploring the intersection of software and hardware.
+I am a **Master’s student in Computing & Control Engineering** at the Faculty of Technical Sciences in Novi Sad, Serbia, where I also completed my **Bachelor’s degree**. Passionate about technology and engineering, I focus on building robust software solutions and exploring how software and hardware integrate to create scalable, real-world systems.
 
-- 🌍 **Location:** Novi Sad, Serbia
-- 🎯 **Focus:** Full-stack development, system design, and engineering solutions
-- 🌱 **Currently exploring:** Spring Boot, React, Angular, and modern web architectures
-- 💡 **Interests:** Electronics, computer building, software engineering, and automation
-- 📫 **Contact:** [nenadgvozdenacsrb@gmail.com](mailto:nenadgvozdenacsrb@gmail.com)
+- 🌍 **Location:** Novi Sad, Serbia  
+- 💼 **Focus:** Full-stack development, backend engineering, and system design  
+- 🚀 **Currently exploring:** Spring Boot, React, Angular, cloud platforms, and modern web architectures  
+- 💡 **Interests:** Electronics, computer building, automation, and software engineering  
+- 📫 **Contact:** nenadgvozdenacsrb@gmail.com
 
 ---
 
