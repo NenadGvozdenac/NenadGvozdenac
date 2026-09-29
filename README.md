@@ -8,7 +8,7 @@
 
 ## 🎓 About Me
 
-I am a **Master’s student in Computing & Control Engineering** at the Faculty of Technical Sciences in Novi Sad, Serbia, where I also completed my **Bachelor’s degree**. Passionate about technology and engineering, I focus on building robust software solutions and exploring how software and hardware integrate to create scalable, real-world systems.
+I am a Software Engineer with a Master's degree in Computing and Control Engineering,  where I also completed my **Bachelor’s degree**. Passionate about technology and engineering, I focus on building robust software solutions and exploring how software and hardware integrate to create scalable, real-world systems.
 
 - 🌍 **Location:** Novi Sad, Serbia  
 - 💼 **Focus:** Full-stack development, backend engineering, and system design  
