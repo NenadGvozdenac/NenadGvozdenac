@@ -1,114 +1,142 @@
+<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&width=600&lines=Hello+there+%F0%9F%91%8B;I'm+Nenad+Gvozdenac;Computing+%26+Control+Engineer;Full-Stack+Engineer)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Nenad%20Gvozdenac&fontSize=70&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Junior%20Software%20Engineer%20%40%20Levi9%20%E2%80%A2%20Novi%20Sad%2C%20Serbia&descAlignY=60&descSize=20" width="100%"/>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=900&color=24C6DC&center=true&vCenter=true&width=720&lines=Hello+there+%F0%9F%91%8B+I'm+Nenad;Junior+Software+Engineer+%40+Levi9;M.Sc.+%26+B.Sc.+with+honours+%40+FTN+Novi+Sad;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Full-Stack+%E2%80%A2+Backend+%E2%80%A2+Microservices;Turning+coffee+into+production+code+%E2%98%95" alt="Typing SVG"/></a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/nenad-gvozdenac-55720b246/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nenadgvozdenacsrb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/nenadgvozdenac"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://discord.com/channels/@me/374913214636359681"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=nenadgvozdenac&label=Profile%20views&color=24c6dc&style=flat-square" alt="Profile views"/>
+<img src="https://img.shields.io/badge/📍-Novi%20Sad%2C%20Serbia-302b63?style=flat-square" alt="Location"/>
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS Certified"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🎓 About Me
+## 🧑‍💻 `whoami`
 
-I am a Software Engineer with a Master's degree in Computing and Control Engineering,  where I also completed my **Bachelor’s degree**. Passionate about technology and engineering, I focus on building robust software solutions and exploring how software and hardware integrate to create scalable, real-world systems.
+```typescript
+const nenad = {
+  role:        "Junior Software Engineer",
+  company:     "Levi9 Technology Services",
+  location:    "Novi Sad, Serbia 🇷🇸",
+  education: [
+    "M.Sc. Electrical & Computer Engineering — with honours (FTN, UNS)",
+    "B.Sc. Electrical & Computer Engineering — with honours (FTN, UNS)",
+  ],
+  certified:   ["AWS Certified Cloud Practitioner"],
+  focus:       ["Full-stack development", "Backend engineering", "System design"],
+  exploring:   ["Spring Boot", "Angular", "React", "Cloud-native architectures"],
+  interests:   ["Electronics", "PC building", "Automation"],
+  languages:   { serbian: "native", english: "full professional", german: "elementary" },
+  motto:       "Leverage technology to solve real-world problems.",
+};
+```
 
-- 🌍 **Location:** Novi Sad, Serbia  
-- 💼 **Focus:** Full-stack development, backend engineering, and system design  
-- 🚀 **Currently exploring:** Spring Boot, React, Angular, cloud platforms, and modern web architectures  
-- 💡 **Interests:** Electronics, computer building, automation, and software engineering  
-- 📫 **Contact:** nenadgvozdenacsrb@gmail.com
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
----
+## 🛤️ Journey
 
-## 🛠️ Technologies & Tools
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://img.shields.io/badge/2026-NOW-24c6dc?style=for-the-badge"/></td>
+    <td>
+      <b>🏢 Levi9 Technology Services</b> — <i>Junior Software Engineer</i><br/>
+      <sub>Jan 2026 – Present · Novi Sad</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/2025-302b63?style=for-the-badge"/></td>
+    <td>
+      <b>🎓 Levi9 Technology Services</b> — <i>Student Scholarship</i><br/>
+      <sub>Feb 2025 – Jan 2026 · Novi Sad</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/2024-302b63?style=for-the-badge"/></td>
+    <td>
+      <b>🧪 2C</b> — <i>Software Engineer Intern</i><br/>
+      <sub>Jul 2024 – Aug 2024 · Novi Sad</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/2023-302b63?style=for-the-badge"/></td>
+    <td>
+      <b>💡 NovaLite</b> — <i>Scala/Java Intern</i><br/>
+      <sub>Jun 2023 – Jul 2023 · Novi Sad</sub><br/>
+      Built the backend of a social network in <b>Scala</b> with <b>MySQL</b>, versioned with <b>Git</b>.
+    </td>
+  </tr>
+</table>
+
+### 🎓 Education & Awards
+
+| | |
+|---|---|
+| 🏛️ **Faculty of Technical Sciences, University of Novi Sad** | **M.Sc.** Electrical & Computer Engineering — *with honours* · 2025 – 2026 |
+| 🏛️ **Faculty of Technical Sciences, University of Novi Sad** | **B.Sc.** Electrical & Computer Engineering — *with honours* · 2021 – 2025 |
+| ☁️ **Amazon Web Services** | **AWS Certified Cloud Practitioner** |
+| 🎖️ **Fond za mlade talente** | **Dositeja Scholarship** — Bachelor (2024 – 2025) & Master (2025 – 2026) |
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 💻 Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,cs,ts,js,scala,cpp,c,go&perline=8" />
 
-### 🌐 Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+**Frameworks**<br/>
+<img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react,vue,nodejs&perline=8" />
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+**Data**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,elasticsearch&perline=8" />
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" height="48"/>
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&perline=8" />
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## 🚀 Featured Projects
-
-### ⚡ [ElektroHelper](https://github.com/NenadGvozdenac/ElektroHelper)
-Comprehensive microservices platform for electricity management, community forums, and payment processing
-- **Tech Stack:** Go, .NET 8, Vue.js 3, TypeScript, PostgreSQL, Neo4j, MongoDB, Elasticsearch
-- **Architecture:** Microservices with Traefik API Gateway, Docker containerization
-- **Features:** Meter readings tracking, social forums with voting system, payment processing, real-time search
-
-### 🤖 [GW2 Discord Bot](https://github.com/NenadGvozdenac/GW2_DiscordBot)
-Advanced Discord bot integrating Guild Wars 2 API for enhanced server experience
-- **Tech Stack:** Java, Discord API, RESTful services
-- **Features:** Game data integration, automated responses, server management
-
-### ⚙️ [MAVN to MIPS32 Compiler](https://github.com/NenadGvozdenac/MAVN-to-MIPS32-Compiler)
-Custom compiler for translating MAVN assembly language to MIPS32
-- **Tech Stack:** C++, Assembly language
-- **Academic Project:** Compiler design and assembly language processing
-
-### 🧠 [C Neural Network](https://github.com/NenadGvozdenac/C-Neural-Network)
-Implementation of a neural network from scratch using C programming language
-- **Tech Stack:** C, Mathematical algorithms
-- **Features:** Custom neural network architecture, training algorithms
-
----
-
-## 🤝 Let's Connect
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nenad%20gvozdenac)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nenadgvozdenac)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/374913214636359681)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nenadgvozdenacsrb@gmail.com)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nenadgvozdenac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenadgvozdenac&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+
+<img src="https://streak-stats.demolab.com/?user=nenadgvozdenac&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+## 🐍 Watch the snake eat my contributions
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nenadgvozdenac&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nenadgvozdenac&layout=compact&langs_count=8&theme=tokyonight"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NenadGvozdenac/NenadGvozdenac/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NenadGvozdenac/NenadGvozdenac/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/NenadGvozdenac/NenadGvozdenac/output/github-snake-dark.svg" />
+</picture>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nenadgvozdenac&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
 
-<div align="center">
-  
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=nenadgvozdenac&color=0e75b6&style=flat)
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 </div>
